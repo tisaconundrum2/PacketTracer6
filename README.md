@@ -2,7 +2,7 @@
 Older version of Packet Tracer
 
 Created using Linux's `split` \
-To combine the file
+To combine the file use this command
 
 `cat CiscoPacketParta* > CiscoPacketPart.exe`
 
